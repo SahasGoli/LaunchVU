@@ -1,0 +1,21 @@
+html, body {
+	background-image: url('backgrounds/campus.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+.clock {
+	font:85pt Roboto, sans-serif; 
+	color:#fbf9f9; 
+	font-weight: 400; 
+	text-shadow: 3px 2px 9px rgba(0,0,0,0.73);
+}
+
+.greeting {
+	font:20pt Roboto, Century Gothic;
+	color:#fbf9f9;
+	font-weight: 400;
+	text-shadow: 0px 0px 10px rgba(0,0,0,1);
+}
