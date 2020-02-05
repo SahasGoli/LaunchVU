@@ -9,7 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="745f42aa-1942-4424-9367-8d2170b8257d" name="Default Changelist" comment="" />
+    <list default="true" id="745f42aa-1942-4424-9367-8d2170b8257d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1X0CxSMfRzcbbCQTJizi26cjKQX" />
   <component name="ProjectViewState">
@@ -26,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -53,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580173871325</updated>
       <workItem from="1580173874706" duration="6283000" />
+      <workItem from="1580871160710" duration="3176000" />
     </task>
     <servers />
   </component>
@@ -64,9 +75,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1580175831939" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1580883563676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580883563676" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580173877307">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580173877307" />
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580883572407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1580883572407" />
   </component>
 </project>
