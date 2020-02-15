@@ -6,20 +6,49 @@ html, body {
 	height: 100%;
 }
 
+.container {
+	justify-content: center;
+	padding-top: 25px;
+	width: 900px;
+}
+
 .clock {
 	font:85pt Roboto, sans-serif; 
 	color:#fbf9f9; 
-	font-weight: 400; 
-	text-shadow: 3px 2px 9px rgba(0,0,0,0.73);
-}
+	font-weight: 400;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.9);}
 
 .greeting {
-	font:25pt Roboto, Century Gothic;
+	font:20pt Roboto, Century Gothic;
 	color:#fbf9f9;
 	font-weight: 500;
-	text-shadow: 0px 0px 10px rgba(0,0,0,1);
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.9);
+}
+
+.buttonText {
+	padding-right: 0px;
+	padding-top: 10px;
+	font:11pt Roboto, Century Gothic;
+	color:#fbf9f9;
+	font-weight: 500;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.9);
+}
+
+.Icon {
+	border: solid 1px #fff;
+	border-radius: 10px;
+}
+
+.Icon:hover {
+	box-shadow: 0 0 10px rgba(255,255,255,01);
 }
 
 .container {
 	justify-content: center;
+}
+
+.col-sm-auto {
+	padding-top: 5px;
+	width: 114.29px;
+	height: 108px;
 }

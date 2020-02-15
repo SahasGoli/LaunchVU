@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="745f42aa-1942-4424-9367-8d2170b8257d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -63,29 +62,47 @@
       <option name="presentableId" value="Default" />
       <updated>1580173871325</updated>
       <workItem from="1580173874706" duration="6283000" />
-      <workItem from="1580871160710" duration="3176000" />
+      <workItem from="1580871160710" duration="3250000" />
+      <workItem from="1580883657728" duration="54000" />
+      <workItem from="1581787651644" duration="3329000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student.">
+      <created>1580883582116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580883582116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student." />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580175831939">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1580175831939" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1580883563676">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1580883580721">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580883563676" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580173877307">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580883580721" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581787668430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580173877307" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581787668430" />
     <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580883572407">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1580883572407" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581789337166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581789337166" />
   </component>
 </project>
