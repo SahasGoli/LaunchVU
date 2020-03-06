@@ -9,13 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="745f42aa-1942-4424-9367-8d2170b8257d" name="Default Changelist" comment="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student.">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VandyLaunchpad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VandyLaunchpad.iml" afterDir="false" />
+    <list default="true" id="745f42aa-1942-4424-9367-8d2170b8257d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +79,7 @@
       <workItem from="1581787651644" duration="3370000" />
       <workItem from="1583437631534" duration="623000" />
       <workItem from="1583438429964" duration="19631000" />
+      <workItem from="1583536759082" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student.">
       <created>1580883582116</created>
@@ -99,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581798632044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added random campus image background functionality through communication with the Flickr REST API.">
+      <created>1583536902582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583536902582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,17 +123,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the essentials to start implementing hyperlinks, linked to VU Gmail, Brightspace and YES--three essential tools for any Vanderbilt Student." />
+    <MESSAGE value="Added random campus image background functionality through communication with the Flickr REST API." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added random campus image background functionality through communication with the Flickr REST API." />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580175831939">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1580175831939" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1583365960080">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1583536901184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583365960080" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583536901184" />
     <state x="91" y="94" width="1095" height="495" key="DiffContextDialog" timestamp="1583366301702">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -143,6 +147,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583485630749" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1583536909639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583536909639" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1583366301702">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
