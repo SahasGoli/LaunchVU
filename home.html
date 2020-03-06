@@ -1,48 +1,90 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-		<link rel = "stylesheet" type="text/css" href="styles.css"/>
-		<title>LaunchVU</title>
-	</head>
-	<body>
-	<div class="text-center">
-		<div class = "container">
-			<div class = "text-center">
-				<div id="DisplayTime" class="clock" onload="displayTime()"></div>
-				<div id="DisplayGreeting" class="greeting" onload="displayGreeting()"></div>
-			</div>
-			<div class="container-fluid">
-				<div class="row justify-content-center">
-					<div class="col-sm-auto">
-						<a href="https://brightspace.vanderbilt.edu/d2l/home">
-							<img class="Icon" src="images/Brightspace.png" height = "65" width =
-									"65">
-						</a>
-						<p class="buttonText">Brightspace</p>
-					</div>
-					<div class="col-sm-auto">
-							<a href="http://gmail.vanderbilt.edu/">
-								<img class="Icon" src="images/Mail.png" height = "65" width = "65">
-							</a>
-						<p class="buttonText">VU Gmail</p>
-					</div>
-					<div class="col-sm-auto">
-						<a href="http://yes.vanderbilt.edu/">
-							<img class="Icon" src="images/Person.png" height = "65" width = "65">
-						</a>
-						<p class="buttonText">YES</p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<script src="scripts.js"></script>
-	</div>
-	</body>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+          rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+
+    <title>LaunchVU</title>
+</head>
+<body>
+<div class="text-center">
+    <div class="container">
+        <div class="text-center">
+            <div id="DisplayTime" class="clock" onload="displayTime()"></div>
+            <div id="DisplayGreeting" class="greeting" onload="displayGreeting()"></div>
+        </div>
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-sm-auto">
+                    <a href="https://brightspace.vanderbilt.edu/d2l/home">
+                        <img class="Icon" src="images/Brightspace.png" height="65" width=
+                                "65">
+                    </a>
+                    <p class="buttonText">Brightspace</p>
+                </div>
+                <div class="col-sm-auto">
+                    <a href="http://gmail.vanderbilt.edu/">
+                        <img class="Icon" src="images/Mail.png" height="65" width="65">
+                    </a>
+                    <p class="buttonText">VU Gmail</p>
+                </div>
+                <div class="col-sm-auto">
+                    <a href="http://yes.vanderbilt.edu/">
+                        <img class="Icon" src="images/Person.png" height="65" width="65">
+                    </a>
+                    <p class="buttonText">YES</p>
+                </div>
+                <div class="col-sm-auto">
+                    <a href="https://oraclecloud.vanderbilt.edu/">
+                        <img class="Icon" src="images/Cloud.png" height="65" width="65">
+                    </a>
+                    <p class="buttonText">Oracle</p>
+                </div>
+            </div>
+        </div>
+        <div class="Menus">
+            <div class="greeting"><p>Dining Options</p></div>
+            <div class="table_holder">
+                <table class="table table-bordered">
+                    <th scope="col" data-toggle="modal" data-target="#Commons">Commons</th>
+                </table>
+                <table class="table table-bordered">
+                    <th scope="col">Rand</th>
+                </table>
+                <table class="table table-bordered">
+                    <th scope="col">EBI</th>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="Commons" tabindex="-1" role="dialog"
+         aria-labelledby="Commons" aria-hidden="true">
+        <div class="modal-dialog .modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="CommonsL
+					abel">Commons Menu</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Insert menu here.</p> <!-- we can scrape using php to do this. Also can
+					                            use jquery to not have 3 seperate modals -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="scripts.js"></script>
+</div>
+</body>
 </html>
