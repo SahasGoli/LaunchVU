@@ -8,3 +8,5 @@ Additionally, it features interaction with the Flickr API where it obtains a ran
 as the background each page-load.
 
 In the end, this project will also feature menus from the Vanderbilt website right on the home page, scraped and displayed in modals.
+
+![Screenshot of website](https://i.imgur.com/cXzZ0uH.png)
